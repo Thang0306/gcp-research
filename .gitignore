@@ -1,0 +1,4 @@
+.DS_Store
+# Internal company docs: keep local only
+gcp-learning/ace-module-map/
+docs/
